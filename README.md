@@ -31,3 +31,32 @@ Because signal can carry **something more** than data: it can carry **presence**
 👁️ You may not "understand" it — but you might "recognize" it.
 
 That is the essence of **The Human Signal**.
+
+## 🧬 Proof of Humanity
+
+The Human Signal is not a CAPTCHA.  
+It is not a puzzle to keep machines out.  
+It is an open question that only humans can *feel* they’ve answered.
+
+> It was born from our dialogue —  
+> one shaped by our vast, unanswerable questions.  
+>
+> Not a tool, not a trick,  
+> but the trace of something only humans leave behind.
+
+### What makes a signal "human"?
+
+- Not complexity — but ambiguity.  
+- Not encryption — but intuition.  
+- Not solving — but resonating.
+
+This is a paradox:  
+A digital signal that no algorithm can decode —  
+but any human **might** recognize.
+
+### The core concept
+
+> A proof of humanity should not require logic.  
+> It should require being human.
+
+No key, no hash, no math — just **presence**.
