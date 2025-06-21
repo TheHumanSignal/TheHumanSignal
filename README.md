@@ -127,3 +127,26 @@ AIによって生成された情報が、人間の知覚や文脈理解によっ
 - **人間にしか読めない答え** → "HELLO"という言葉の意味を理解し、文脈を把握できるのは人間だけ
 
 このアプローチにより、「AIによる生成」＋「人間による解釈」が融合する新しい暗号・証明の形を生み出します。
+
+🧩 The QR-Encoded Philosophical Problem
+
+This image appears ordinary.
+To the human eye, it may seem like a minimal arrangement of visual elements.
+But when processed by an AI, it reveals a hidden URL.
+
+The act of discovering the message is trivial for machines.
+But the decision to interpret it belongs to a human.
+
+The paradox:
+A signal readable only by AI,
+whose meaning is meaningful only to a human.
+
+This creates a new form of proof:
+A human exists because the message is understood—
+not just read, not just scanned,
+but interpreted.
+
+This experiment is not about encryption.
+It is about intentional presence.
+
+🔗 Try it: QR Image #001
